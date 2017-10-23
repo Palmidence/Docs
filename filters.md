@@ -1,3 +1,5 @@
+![](https://i.imgur.com/nXEDmpz.png)
+
 **Filters** are allow/deny conditions about players, blocks, or the match in general, used in conjunction with regions. 
 Other modules use filters to decide if and when things should happen to players, blocks, or the entire match.
 
