@@ -1,3 +1,5 @@
+![](https://i.imgur.com/nXEDmpz.png)
+
 **Killstreaks** is a module that allows you to customize the killstreaks currently enabled within the plugin.
 The options that are available for you to change are the `count`, `message`, and the `commands`.
 
