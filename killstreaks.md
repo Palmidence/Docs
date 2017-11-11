@@ -13,6 +13,10 @@ The options that are available for you to change are the `count`, `message`, and
 
 >**Example:** `commands: [ "/give @a stone_sword 1 0 {ench:[{id:19,lvl:1}]}" ]` to give everyone in the match a Knockback I stone sword when a player gets a killstreak.
 
+`repeat` is a boolean which specifies if the kill number, once attained, should repeat the same action.
+
+>**Example:** Setting `repeat: true` to a killstreak of `1` could reward you with 8 arrows per kill, or make it to where every 5 kills you get an iron ingot if the killstreak is set to 5.
+
 ---
 
 Killstreaks are handled by the server automatically, and do not need to be individually coded for each map.
