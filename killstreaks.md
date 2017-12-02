@@ -29,4 +29,4 @@ Killstreaks are handled by the server automatically, and do not need to be indiv
 
 - At **50 kills**, a summoned wither sound plays, and a firework spawns.
 
-- At **100 kills**, a custom orb-like sound plays, a firework spawns, and the player is banned.
+- At **100 kills**, a custom orb-like sound plays and another firework spawns.
